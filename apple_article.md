@@ -654,7 +654,7 @@ async function sendApplePushNotification(deviceToken, payload = {}) { // Empty p
     authorization: `bearer ${encodedToken}`,
     "apns-push-type": "background",
     "apns-expiration": "0",
-    "apns-priority": "10",
+    "apns-priority": "5",
     "apns-topic": process.env.PASS_TYPE_IDENTIFIER, // Must match the passTypeIdentifier used when creating the pass
     "Content-Type": "application/json",
   };
