@@ -108,7 +108,8 @@ await pass.createPass("1234", passProperties);
 
 ## Documentation
 
-For detailed documentation and implementation guides, please refer to the [article](apple_arcitle.md) in this repository.
+For detailed documentation and implementation guides, please refer to the [article](apple_article.md) in this repository.
+- You could also visit the [Medium article](https://medium.com/@raidiaz/build-a-web-service-for-apple-wallet-passes-with-node-js-b6bf77b4282f) or the [article website](https://raimundodiaz.github.io/apple-wallet-passes/)
 
 ## Contributing
 
